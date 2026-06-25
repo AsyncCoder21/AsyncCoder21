@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I am an engineer focused on building enterprise-gr
 * **Testing Suites**: Cypress, TestNG, REST Assured, JMeter (Performance).
 * **Database & DevOps**: SQL Server, PostgreSQL, CI/CD pipelines, Shift-Left Testing.
 
-
 ---
 
 ### 🚀 Featured Projects
@@ -51,17 +50,10 @@ Designed and deployed a comprehensive cross-browser test automation suite for he
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Ramanuj's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ramanuj-dixit-537729194/)
+<a href="https://www.linkedin.com/in/ramanuj-dixit-537729194/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
 
 ⚡ *Fun Fact: I write test cases to break software, then build GenAI agents to fix it!*
