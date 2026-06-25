@@ -4,10 +4,8 @@
 
 ### AI Engineer • Generative AI Developer • QA Automation Engineer
 
-<p>
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=850&lines=Building+AI+Agents;Generative+AI+Developer;LLMs+%7C+RAG+%7C+LangChain+%7C+LangGraph;FastAPI+Developer;Playwright+%26+Selenium+Automation;Always+Learning+🚀" alt="Typing SVG" />
-</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20QA%20Automation%20Engineer&height=100&fontSize=28" />
 </p>
 
 </div>
