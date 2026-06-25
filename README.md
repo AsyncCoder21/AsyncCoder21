@@ -7,26 +7,31 @@ Welcome to my GitHub profile! I am an engineer focused on building enterprise-gr
 ### 🧰 Tech Stack & Key Skills
 
 #### 🤖 AI Engineering & LLMOps
-![Python](https://shields.io)
-![TypeScript](https://shields.io)
-![FastAPI](https://shields.io)
-![LangChain](https://shields.io)
-![OpenAI](https://shields.io)
-![AWS](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="LangChain" />
+  <img src="https://shields.io" alt="OpenAI" />
+  <img src="https://shields.io" alt="AWS" />
+</p>
 
 * **Orchestration & RAG**: LangGraph, Multi-Agent Architecture, GraphRAG, Neo4j, Vector Databases (ChromaDB, Pinecone).
 * **LLMOps**: LangSmith Evaluation, Prompt Engineering, Guardrails, AI Observability.
 
 #### 🧪 QA Automation & Testing
-![Playwright](https://shields.io)
-![Selenium](https://shields.io)
-![Postman](https://shields.io)
-![Docker](https://shields.io)
-![GitHub Actions](https://shields.io)
-![Azure DevOps](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Playwright" />
+  <img src="https://shields.io" alt="Selenium" />
+  <img src="https://shields.io" alt="Postman" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="GitHub Actions" />
+  <img src="https://shields.io" alt="Azure DevOps" />
+</p>
 
 * **Testing Suites**: Cypress, TestNG, REST Assured, JMeter (Performance).
 * **Database & DevOps**: SQL Server, PostgreSQL, CI/CD pipelines, Shift-Left Testing.
+
 
 ---
 
