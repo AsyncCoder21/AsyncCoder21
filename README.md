@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
@@ -140,7 +140,7 @@ while True:
 
 &nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ramanujdixit123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
