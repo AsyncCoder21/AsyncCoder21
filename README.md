@@ -2,8 +2,6 @@
 
 # Hi there, I'm Ramanuj Dixit 👋
 
-### AI Engineer • Generative AI Developer • QA Automation Engineer
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20QA%20Automation%20Engineer&height=100&fontSize=28" />
 </p>
